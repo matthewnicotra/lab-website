@@ -30,7 +30,9 @@ twitter_username: nicotralab
 github_username:  
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-basically-basic
+
 plugins:
   - jekyll-feed
 
@@ -53,3 +55,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+    - _assets
