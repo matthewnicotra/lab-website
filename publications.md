@@ -14,7 +14,7 @@ _(Undergraduate authors from our lab in **bold**.)_
 
 - Nicotra ML. 2021. "The _Hydractinia_ allorecognition system." _Immunogenetics_ In press. [\[Full Text\]](https://doi.org/10.1007/s00251-021-01233-6){:target="_blank"}
 
-- Huene AL, **Chen T**, and Nicotra ML. 2021. "New binding specificities evolve via point mutation in an invertebrate allorecognition gene." _iScience_ 24(7). [\[Full Text\]](https://www.cell.com/iscience/fulltext/S2589-0042(21)00779-3#secsectitle0020){:target="_blank"}
+- Huene AL, **Chen T**, and Nicotra ML. 2021. "New binding specificities evolve via point mutation in an invertebrate allorecognition gene." _iScience_ 24(7). [\[Full Text\]](https://www.cell.com/iscience/fulltext/S2589-0042(21)00779-3#secsectitle0020){:target="_blank"
 
 ## 2020
 
